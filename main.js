@@ -1,7 +1,7 @@
 require('dotenv').config()
 const { Telegraf } = require('telegraf')
 const TOKEN = process.env.1746372753:AAFZTR9Sgg-zN9n1w2sbIdwxwCEyyhly4H0;
-const bot = new Telegraf(1746372753:AAFZTR9Sgg-zN9n1w2sbIdwxwCEyyhly4H0)
+const bot = new Telegraf(TOKEN)
 const youtubedl = require('youtube-dl')
 
 
